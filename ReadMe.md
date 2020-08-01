@@ -9,4 +9,4 @@
 > python predict.py
 
 ### See On Kaggle
-[Brain-Tumot-Classification](https://www.kaggle.com/chityeaung/brain-tumor-classification)
+[Brain-Tumor-Classification](https://www.kaggle.com/chityeaung/brain-tumor-classification)
