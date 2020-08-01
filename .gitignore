@@ -1,0 +1,5 @@
+*.npy
+*.h5
+/Training
+/Testing
+*.txt
